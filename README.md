@@ -48,4 +48,7 @@ A lo largo de mi trayectoria académica y profesional, he desarrollado sólidas 
 ---
 
 ### Conéctate conmigo
-📥 Puedes contactarme a través de mis redes profesionales o revisar mis repositorios anclados aquí abajo para ver mi código en acción.
+
+📥 ¡Conectemos! Puedes encontrarme en:
+
+* **LinkedIn:** [linkedin.com/in/torresdaniel0404](https://www.linkedin.com/in/torresdaniel0404)
